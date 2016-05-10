@@ -1,5 +1,5 @@
-# Teensy-3.1
-Teensy 3.1 library for kicad
+# Teensy++2.0
+Teensy 2.0 library for kicad
 
 ## Library
 
@@ -30,4 +30,3 @@ If you move the library to another path, you must relocated it to keep using it.
 
 This work is under CC-BY-SA 3.0 license 
 
-![cc-by-sa License](/cc-by-sa_0.png)
